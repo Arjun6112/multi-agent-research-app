@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+sse-starlette
+pydantic
+langgraph
+langchain-google-genai
+langchain-core
+python-dotenv
+wikipedia
+duckduckgo-search
+ddgs
