@@ -158,7 +158,7 @@ function App() {
       <div className="app-container">
         {/* Header */}
         <header className="app-header">
-          <p className="badge">Powered by LangGraph</p>
+         
           <h1 className="title">Multi-Agent Research</h1>
           <p className="subtitle">
             AI planner spawns specialists. A Judge debates them. You steer the final report.
